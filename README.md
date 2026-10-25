@@ -26,4 +26,3 @@ Messages in Russian, Ukrainian, Serbian, Bulgarian and other Cyrillic languages 
 
 - Translation by Google Translate. If it doesn't answer within 2.5 s, the message is shown in Latin letters instead.
 - Only the text of Cyrillic messages is sent for translation – no names or account data.
-- Your own messages are not changed.
