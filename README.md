@@ -4,7 +4,7 @@
 
 **Cyrillic World of Tanks chat, translated into English**
 
-[![Download](https://img.shields.io/github/v/release/Bubl3Gum/ChatLatinica?label=download&style=for-the-badge&color=e08a1e)](https://github.com/Bubl3Gum/ChatLatinica/releases/latest)
+[![Download](https://img.shields.io/badge/DOWNLOAD-e08a1e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bubl3Gum/ChatLatinica/releases/latest)
 
 </div>
 
